@@ -9,7 +9,7 @@
 <html>
   <head>
     <title>测试Tomcat</title>
-    <h1 style="color: darkred">Hello,IDEA1!</h1>
+    <h1 style="color: darkred">Hello,IDEA2!</h1>
   </head>
   <body>
   $END$
